@@ -11,6 +11,8 @@ What is here:
 - A cost cap note: $50 per month soft cap for API spend, reviewed weekly
 - Tests for the tool, and a checklist to close Day 1
 
+New here? Read [ROADMAP.md](ROADMAP.md) first: the whole program in plain English.
+
 ## Quick start
 
 ```bash
